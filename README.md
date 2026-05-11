@@ -1,9 +1,11 @@
 ## Hi there 👋 I am Neev Jain
-<br>
-- Full Stack Developer | Backend Enthusiast | Aspiring Software Engineer
-- 🌱 I’m currently learning Spring Boot
-- 😄 Building cool stuff, one commit at a time.
-<br>
+**Full Stack Developer | Backend Enthusiast | Aspiring Software Engineer**
+
+- 🌱 Currently deep-diving into **Spring Boot**
+- 😄 Building cool stuff, one commit at a time
+- 📫 Reach me at: [jneev284@gmail.com](mailto:jneev284@gmail.com)
+
+---
 ## 🌐 Socials:
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jneev284@gmail.com) 
